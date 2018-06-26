@@ -121,6 +121,14 @@ PRODUCT_PACKAGES += \
     Development \
     Profiles
 
+# Spline Packages
+PRODUCT_PACKAGES += \
+    FDroid \
+    FDroidriviledgedExtension \
+    K9 \
+    OpenKeychain \
+    OmniSwitcher
+
 # Optional packages
 PRODUCT_PACKAGES += \
     libemoji \
